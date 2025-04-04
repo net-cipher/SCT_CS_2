@@ -6,7 +6,7 @@ Image Encryption Tool 🔒🖼️ A Python-based image encryption tool that secu
 
 -- virtual environment creation and activation:
 > python -m venv venv
---
+-- activate
 > source /venv/bin/activate
 
 --packages installation
@@ -14,3 +14,6 @@ Image Encryption Tool 🔒🖼️ A Python-based image encryption tool that secu
 
 --running the project
 >python3 image_enc.py
+
+--deactivate the venv after execution
+>deactivate
